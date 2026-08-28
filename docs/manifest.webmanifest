@@ -1,0 +1,25 @@
+{
+  "name": "TETRIS",
+  "short_name": "TETRIS",
+  "description": "Classic Tetris. Guideline rules, original overworld chiptune.",
+  "start_url": "/tetris/",
+  "scope": "/tetris/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080b10",
+  "theme_color": "#080b10",
+  "icons": [
+    {
+      "src": "icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
