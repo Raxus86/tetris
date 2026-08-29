@@ -1,4 +1,4 @@
-const CACHE = "tetris-v1";
+const CACHE = "tetris-v2";
 
 self.addEventListener("install", (event) => {
   event.waitUntil(
